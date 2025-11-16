@@ -1,0 +1,127 @@
+2025-07-29 15:45:56,025 - __main__ - INFO - \U0001f680 Бот запущен...
+2025-07-29 15:45:56,028 - aiogram.dispatcher - INFO - Start polling
+2025-07-29 15:45:56,243 - aiogram.dispatcher - INFO - Run polling for bot @SeIIStuff_bot id=6712873539 - 'SeII'
+2025-07-29 15:46:14,255 - aiogram.event - INFO - Update id=924517107 is handled. Duration 219 ms by bot id=6712873539
+2025-07-29 15:46:17,772 - aiogram.event - INFO - Update id=924517108 is handled. Duration 93 ms by bot id=6712873539
+2025-07-29 15:47:19,976 - aiogram.event - INFO - Update id=924517109 is handled. Duration 109 ms by bot id=6712873539
+2025-07-29 15:47:22,111 - aiogram.event - INFO - Update id=924517110 is handled. Duration 218 ms by bot id=6712873539
+2025-07-29 15:47:44,440 - aiogram.event - INFO - Update id=924517111 is handled. Duration 218 ms by bot id=6712873539
+2025-07-29 15:47:46,744 - aiogram.event - INFO - Update id=924517112 is handled. Duration 77 ms by bot id=6712873539
+2025-07-29 15:47:48,220 - aiogram.event - INFO - Update id=924517113 is handled. Duration 109 ms by bot id=6712873539
+2025-07-29 15:47:49,891 - aiogram.event - INFO - Update id=924517114 is handled. Duration 93 ms by bot id=6712873539
+2025-07-29 15:47:54,431 - aiogram.event - INFO - Update id=924517115 is handled. Duration 156 ms by bot id=6712873539
+2025-07-29 15:47:56,825 - aiogram.event - INFO - Update id=924517116 is handled. Duration 422 ms by bot id=6712873539
+2025-07-29 15:47:58,278 - aiogram.event - INFO - Update id=924517117 is handled. Duration 77 ms by bot id=6712873539
+2025-07-29 15:48:00,663 - aiogram.event - INFO - Update id=924517118 is handled. Duration 62 ms by bot id=6712873539
+2025-07-29 15:48:20,269 - aiogram.event - INFO - Update id=924517119 is handled. Duration 78 ms by bot id=6712873539
+2025-07-29 15:49:51,550 - aiogram.event - INFO - Update id=924517120 is handled. Duration 110 ms by bot id=6712873539
+2025-07-29 16:18:43,207 - aiogram.dispatcher - INFO - Polling stopped
+2025-07-29 16:18:43,208 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2025-07-29 16:18:43,208 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 6712873539)
+2025-07-29 16:18:43,469 - aiogram.dispatcher - INFO - Polling stopped for bot @SeIIStuff_bot id=6712873539 - 'SeII'
+2025-07-29 16:18:47,782 - aiogram.dispatcher - INFO - Start polling
+2025-07-29 16:18:48,013 - aiogram.dispatcher - INFO - Run polling for bot @SeIIStuff_bot id=6712873539 - 'SeII'
+2025-07-29 16:18:48,594 - __main__ - ERROR - Общая ошибка в approve_product для product_id=1: name 'sqlite3' is not defined
+2025-07-29 16:18:48,796 - aiogram.event - INFO - Update id=924517121 is handled. Duration 203 ms by bot id=6712873539
+2025-07-29 16:18:51,063 - __main__ - ERROR - Общая ошибка в approve_product для product_id=1: name 'sqlite3' is not defined
+2025-07-29 16:18:51,122 - aiogram.event - INFO - Update id=924517122 is handled. Duration 63 ms by bot id=6712873539
+2025-07-29 16:18:52,822 - __main__ - ERROR - Общая ошибка в approve_product для product_id=1: name 'sqlite3' is not defined
+2025-07-29 16:18:52,896 - aiogram.event - INFO - Update id=924517123 is handled. Duration 78 ms by bot id=6712873539
+2025-07-29 16:18:54,752 - __main__ - ERROR - Общая ошибка в reject_product для product_id=1: name 'sqlite3' is not defined
+2025-07-29 16:18:54,919 - aiogram.event - INFO - Update id=924517124 is handled. Duration 172 ms by bot id=6712873539
+2025-07-29 16:19:01,005 - aiogram.event - INFO - Update id=924517125 is handled. Duration 109 ms by bot id=6712873539
+2025-07-29 16:19:19,817 - aiogram.event - INFO - Update id=924517126 is handled. Duration 93 ms by bot id=6712873539
+2025-07-29 16:19:21,313 - __main__ - ERROR - Общая ошибка в approve_product для product_id=1: name 'sqlite3' is not defined
+2025-07-29 16:19:21,446 - aiogram.event - INFO - Update id=924517127 is handled. Duration 125 ms by bot id=6712873539
+2025-07-29 16:19:28,433 - aiogram.event - INFO - Update id=924517128 is handled. Duration 125 ms by bot id=6712873539
+2025-07-29 16:19:30,668 - aiogram.event - INFO - Update id=924517129 is handled. Duration 141 ms by bot id=6712873539
+2025-07-29 16:19:31,597 - aiogram.event - INFO - Update id=924517130 is handled. Duration 187 ms by bot id=6712873539
+2025-07-29 16:19:32,846 - aiogram.event - INFO - Update id=924517131 is handled. Duration 93 ms by bot id=6712873539
+2025-07-29 16:19:34,095 - aiogram.event - INFO - Update id=924517132 is handled. Duration 125 ms by bot id=6712873539
+2025-07-29 16:19:35,294 - aiogram.event - INFO - Update id=924517133 is handled. Duration 94 ms by bot id=6712873539
+2025-07-29 16:19:36,719 - aiogram.event - INFO - Update id=924517134 is handled. Duration 93 ms by bot id=6712873539
+2025-07-29 16:19:39,511 - aiogram.event - INFO - Update id=924517135 is handled. Duration 172 ms by bot id=6712873539
+2025-07-29 16:19:41,035 - __main__ - ERROR - Общая ошибка в approve_product для product_id=2: name 'sqlite3' is not defined
+2025-07-29 16:19:41,155 - aiogram.event - INFO - Update id=924517136 is handled. Duration 125 ms by bot id=6712873539
+2025-07-29 16:22:42,651 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2025-07-29 16:22:42,651 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 6712873539)
+2025-07-29 19:47:59,115 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2025-07-29 19:47:59,117 - aiogram.dispatcher - WARNING - Sleep for 1.524151 seconds and try again... (tryings = 1, bot id = 6712873539)
+2025-07-29 19:48:10,877 - aiogram.dispatcher - INFO - Connection established (tryings = 2, bot id = 6712873539)
+2025-07-29 20:52:55,500 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2025-07-29 20:52:55,500 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 6712873539)
+2025-07-29 20:53:06,928 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 6712873539)
+2025-07-30 17:08:15,821 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2025-07-30 17:08:15,997 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 6712873539)
+2025-07-30 17:08:22,347 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientOSError: [WinError 1236] Подключение к сети было разорвано локальной системой
+2025-07-30 17:08:22,348 - aiogram.dispatcher - WARNING - Sleep for 1.262385 seconds and try again... (tryings = 1, bot id = 6712873539)
+2025-07-30 17:08:25,151 - aiogram.dispatcher - INFO - Connection established (tryings = 2, bot id = 6712873539)
+2025-07-30 17:44:46,125 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2025-07-30 17:44:46,127 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 6712873539)
+2025-07-31 10:55:58,684 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2025-07-31 10:55:58,684 - aiogram.dispatcher - WARNING - Sleep for 1.460537 seconds and try again... (tryings = 1, bot id = 6712873539)
+2025-07-31 10:56:10,332 - aiogram.dispatcher - INFO - Connection established (tryings = 2, bot id = 6712873539)
+2025-07-31 20:40:06,824 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2025-07-31 20:40:06,824 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 6712873539)
+2025-07-31 20:40:18,049 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 6712873539)
+2025-08-03 20:41:00,765 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2025-08-03 20:41:00,774 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 6712873539)
+2025-08-03 20:41:12,097 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 6712873539)
+2025-08-03 21:31:19,970 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2025-08-03 21:31:19,970 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 6712873539)
+2025-08-03 21:31:31,225 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 6712873539)
+2025-08-03 21:45:23,827 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2025-08-03 21:45:23,828 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 6712873539)
+2025-08-03 21:45:35,017 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 6712873539)
+2025-08-03 23:34:02,124 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientOSError: [WinError 1236] Подключение к сети было разорвано локальной системой
+2025-08-03 23:34:02,128 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 6712873539)
+2025-08-03 23:34:13,392 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 6712873539)
+2025-08-03 23:34:40,120 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientOSError: [WinError 1236] Подключение к сети было разорвано локальной системой
+2025-08-03 23:34:40,120 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 6712873539)
+2025-08-03 23:34:51,312 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 6712873539)
+2025-08-03 23:46:59,531 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2025-08-03 23:46:59,531 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 6712873539)
+2025-08-03 23:47:10,684 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 6712873539)
+2025-08-04 00:02:18,662 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2025-08-04 00:02:18,663 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 6712873539)
+2025-08-04 16:10:52,593 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2025-08-04 16:10:52,594 - aiogram.dispatcher - WARNING - Sleep for 1.359640 seconds and try again... (tryings = 1, bot id = 6712873539)
+2025-08-04 16:11:04,140 - aiogram.dispatcher - INFO - Connection established (tryings = 2, bot id = 6712873539)
+2025-08-04 16:16:53,247 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2025-08-04 16:16:53,247 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 6712873539)
+2025-08-04 16:17:04,504 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 6712873539)
+2025-08-04 16:17:04,530 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2025-08-04 16:17:04,530 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 6712873539)
+2025-08-04 16:17:15,748 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 6712873539)
+2025-08-04 16:20:17,076 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2025-08-04 16:20:17,076 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 6712873539)
+2025-08-04 16:20:28,236 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 6712873539)
+2025-08-04 17:03:38,237 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2025-08-04 17:03:38,237 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 6712873539)
+2025-08-04 17:03:49,426 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 6712873539)
+2025-08-04 17:30:14,157 - aiogram.dispatcher - INFO - Polling stopped
+2025-08-04 17:30:14,164 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2025-08-04 17:30:14,165 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 6712873539)
+2025-08-04 17:30:14,432 - aiogram.dispatcher - INFO - Polling stopped for bot @SeIIStuff_bot id=6712873539 - 'SeII'
+2025-09-02 23:44:36,027 - aiogram.dispatcher - INFO - Start polling
+2025-09-02 23:44:36,266 - aiogram.dispatcher - INFO - Run polling for bot @SeIIStuff_bot id=6712873539 - 'SeII'
+2025-09-02 23:44:45,971 - aiogram.event - INFO - Update id=924517137 is handled. Duration 188 ms by bot id=6712873539
+2025-09-02 23:44:48,004 - aiogram.event - INFO - Update id=924517138 is handled. Duration 156 ms by bot id=6712873539
+2025-09-02 23:44:49,703 - aiogram.event - INFO - Update id=924517139 is handled. Duration 141 ms by bot id=6712873539
+2025-09-02 23:44:54,084 - aiogram.event - INFO - Update id=924517140 is handled. Duration 141 ms by bot id=6712873539
+2025-09-02 23:44:57,684 - aiogram.event - INFO - Update id=924517141 is handled. Duration 125 ms by bot id=6712873539
+2025-09-02 23:44:59,968 - aiogram.event - INFO - Update id=924517142 is handled. Duration 93 ms by bot id=6712873539
+2025-09-02 23:45:03,680 - aiogram.event - INFO - Update id=924517143 is handled. Duration 77 ms by bot id=6712873539
+2025-09-02 23:45:25,001 - aiogram.event - INFO - Update id=924517144 is handled. Duration 250 ms by bot id=6712873539
+2025-09-02 23:45:28,303 - __main__ - ERROR - Общая ошибка в approve_product для product_id=3: name 'sqlite3' is not defined
+2025-09-02 23:45:28,365 - aiogram.event - INFO - Update id=924517145 is handled. Duration 62 ms by bot id=6712873539
+2025-09-02 23:45:36,472 - aiogram.dispatcher - INFO - Polling stopped
+2025-09-02 23:45:36,473 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2025-09-02 23:45:36,473 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 6712873539)
+2025-09-02 23:45:36,742 - aiogram.dispatcher - INFO - Polling stopped for bot @SeIIStuff_bot id=6712873539 - 'SeII'
+2025-09-15 19:29:04,241 - aiogram.dispatcher - INFO - Start polling
+2025-09-15 19:29:04,475 - aiogram.dispatcher - INFO - Run polling for bot @SeIIStuff_bot id=6712873539 - 'SeII'
+2025-09-15 19:29:14,835 - aiogram.dispatcher - INFO - Polling stopped
+2025-09-15 19:29:14,839 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2025-09-15 19:29:14,839 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 6712873539)
+2025-09-15 19:29:15,103 - aiogram.dispatcher - INFO - Polling stopped for bot @SeIIStuff_bot id=6712873539 - 'SeII'
