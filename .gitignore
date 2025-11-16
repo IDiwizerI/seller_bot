@@ -1,0 +1,13 @@
+# Config files
+config.py
+config_*.py
+*/config.py
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
